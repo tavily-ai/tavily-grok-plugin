@@ -7,17 +7,13 @@ metadata:
   version: "0.1.0"
   homepage: https://www.tavily.com
   source: https://github.com/tavily-ai/use-case-skills
-inputs:
-  - name: TAVILY_API_KEY
-    description: Tavily API key for endpoint requests.
-    required: true
 ---
 
 # Investment Research Briefs
 
 ## Workflow
 
-Use search and extract for quick investor briefs and source checks, research for full investment memos, and map or crawl only for large known source collections. Keep this skill focused on research design, source selection, verification, and synthesis; execution mechanics should come from companion endpoint skills.
+Use Tavily's MCP search and extract tools for quick investor briefs and source checks, research for full investment memos, and map or crawl only for large known source collections. Keep this skill focused on research design, source selection, verification, and synthesis.
 
 Treat the guidance below as base guidance; adapt it to the user's request when appropriate.
 

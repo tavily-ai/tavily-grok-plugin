@@ -7,17 +7,13 @@ metadata:
   version: "0.1.0"
   homepage: https://www.tavily.com
   source: https://github.com/tavily-ai/use-case-skills
-inputs:
-  - name: TAVILY_API_KEY
-    description: Tavily API key for endpoint requests.
-    required: true
 ---
 
 # Vendor Risk KYC Screening
 
 ## Workflow
 
-Use search and extract for source-grounded vendor, merchant, supplier, counterparty, and KYC research; use map or crawl only for known official directories or registries. Treat this as research support, not a final compliance determination. Execution mechanics should come from companion endpoint skills.
+Use Tavily's MCP search and extract tools for source-grounded vendor, merchant, supplier, counterparty, and KYC research; use map or crawl only for known official directories or registries. Treat this as research support, not a final compliance determination.
 
 Treat the guidance below as base guidance; adapt it to the user's request when appropriate.
 
