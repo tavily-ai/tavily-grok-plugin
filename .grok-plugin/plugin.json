@@ -1,0 +1,22 @@
+{
+  "name": "tavily",
+  "version": "1.0.0",
+  "description": "Web search, content extraction, website crawling, URL discovery, and deep research for Grok Build via Tavily's hosted MCP server.",
+  "author": {
+    "name": "Tavily",
+    "url": "https://github.com/tavily-ai"
+  },
+  "repository": "https://github.com/tavily-ai/tavily-grok-plugin",
+  "homepage": "https://www.tavily.com",
+  "license": "MIT",
+  "keywords": [
+    "tavily",
+    "web-search",
+    "real-time-discovery",
+    "content-extraction",
+    "website-extraction",
+    "crawling",
+    "research",
+    "mcp"
+  ]
+}
