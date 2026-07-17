@@ -71,7 +71,7 @@ Find recent papers on retrieval-augmented generation and summarize the strongest
 
 ## Authentication and security
 
-The plugin connects only to Tavily's hosted MCP endpoint at `https://mcp.tavily.com/mcp/`. Authentication is handled through the MCP authorization flow.
+The plugin connects only to Tavily's hosted MCP endpoint at `https://mcp.tavily.com/mcp`. Authentication is handled through the MCP authorization flow.
 
 ## Resources
 

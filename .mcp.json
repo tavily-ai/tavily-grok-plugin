@@ -2,7 +2,7 @@
   "mcpServers": {
     "tavily": {
       "type": "http",
-      "url": "https://mcp.tavily.com/mcp/",
+      "url": "https://mcp.tavily.com/mcp",
       "note": "Tavily's hosted MCP server for web search, content extraction, URL discovery, crawling, and research. Keyless access is available for supported tools; users can authenticate through OAuth for account-backed access and higher limits."
     }
   }
