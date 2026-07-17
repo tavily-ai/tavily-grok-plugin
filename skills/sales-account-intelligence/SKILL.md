@@ -7,17 +7,13 @@ metadata:
   version: "0.1.0"
   homepage: https://www.tavily.com
   source: https://github.com/tavily-ai/use-case-skills
-inputs:
-  - name: TAVILY_API_KEY
-    description: Tavily API key for endpoint requests.
-    required: true
 ---
 
 # Sales Account Intelligence
 
 ## Workflow
 
-Use search and extract to produce fast, useful sales account context with cited sources; use map or crawl only when a known company site needs scoped navigation. Keep this skill focused on research planning, query construction, source selection, and sales-ready synthesis; execution mechanics should come from companion endpoint skills.
+Use Tavily's MCP search and extract tools to produce fast, useful sales account context with cited sources; use map or crawl only when a known company site needs scoped navigation. Keep this skill focused on research planning, query construction, source selection, and sales-ready synthesis.
 
 Treat the guidance below as base guidance; adapt it to the user's request when appropriate.
 

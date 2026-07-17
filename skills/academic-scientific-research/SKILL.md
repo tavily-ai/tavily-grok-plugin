@@ -7,17 +7,13 @@ metadata:
   version: "0.1.0"
   homepage: https://www.tavily.com
   source: https://github.com/tavily-ai/use-case-skills
-inputs:
-  - name: TAVILY_API_KEY
-    description: Tavily API key for endpoint requests.
-    required: true
 ---
 
 # Academic Scientific Research
 
 ## Workflow
 
-Use search to discover scholarly sources, extract to verify source content, map or crawl for known scholarly sites and collections, and research for full literature-review synthesis. Keep this skill focused on research planning, source selection, extraction targets, and evidence synthesis; execution mechanics should come from companion endpoint skills.
+Use Tavily's MCP tools to search for scholarly sources, extract and verify source content, map or crawl known scholarly sites and collections, and run full literature-review research. Keep this skill focused on research planning, source selection, extraction targets, and evidence synthesis.
 
 Treat the guidance below as base guidance; adapt it to the user's request when appropriate.
 

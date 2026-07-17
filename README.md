@@ -27,14 +27,7 @@ On first connection, Grok opens Tavily's authorization flow in the browser. Sign
 | Skill | What it does |
 |---|---|
 | `tavily-web` | Coordinates Tavily tools for search, extraction, mapping, crawling, and research |
-| `tavily-search` | Finds current web information and relevant sources |
-| `tavily-extract` | Retrieves clean content from known URLs |
-| `tavily-map` | Discovers pages and URLs across a website |
-| `tavily-crawl` | Retrieves content from multiple pages of a website |
-| `tavily-research` | Conducts comprehensive research grounded in cited web sources |
-| `tavily-dynamic-search` | Searches, filters, and returns only the most relevant information |
 | `tavily-best-practices` | Helps developers build production-ready Tavily integrations |
-| `tavily-cli` | Provides complete Tavily command-line workflows |
 
 ### Specialized research
 

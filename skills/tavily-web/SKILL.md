@@ -37,4 +37,4 @@ Use the Tavily MCP tools provided by this plugin to retrieve current, source-gro
 
 ## Authentication and limits
 
-The server is configured at `https://mcp.tavily.com/mcp/`. Supported tools can be used with keyless access. If a tool requires account-backed access or a higher limit, ask the user to complete the client's OAuth flow. Never request that the user paste an API key into chat.
+The server is configured at `https://mcp.tavily.com/mcp`. If authentication is required, ask the user to complete the client's OAuth flow. Never request that the user paste an API key into chat.

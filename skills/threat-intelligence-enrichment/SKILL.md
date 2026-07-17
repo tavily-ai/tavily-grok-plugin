@@ -7,17 +7,13 @@ metadata:
   version: "0.1.0"
   homepage: https://www.tavily.com
   source: https://github.com/tavily-ai/use-case-skills
-inputs:
-  - name: TAVILY_API_KEY
-    description: Tavily API key for endpoint requests.
-    required: true
 ---
 
 # Threat Intelligence Enrichment
 
 ## Workflow
 
-Use search and extract to enrich security entities with authoritative and recent evidence; use map or crawl for known vendor portals or advisory collections. Keep this skill focused on query construction, source priority, verification, and security synthesis; execution mechanics should come from companion endpoint skills.
+Use Tavily's MCP search and extract tools to enrich security entities with authoritative and recent evidence; use map or crawl for known vendor portals or advisory collections. Keep this skill focused on query construction, source priority, verification, and security synthesis.
 
 Treat the guidance below as base guidance; adapt it to the user's request when appropriate.
 
